@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814848584494",
+    "project_id": "dietproapp-5b44a",
+    "storage_bucket": "dietproapp-5b44a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814848584494:android:d95a6fc56682c194de68bf",
+        "android_client_info": {
+          "package_name": "com.example.dietproapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAMh1ZtvPX-kL_5WmUK6jIch_B-0UkyBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

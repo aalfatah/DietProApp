@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.TistoW:MyHelper:2.0.32@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/33f394bf2b98df435957ac24e8dd734c/transformed/jetified-MyHelper-2.0.32/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/33f394bf2b98df435957ac24e8dd734c/transformed/jetified-MyHelper-2.0.32/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/33f394bf2b98df435957ac24e8dd734c/transformed/jetified-MyHelper-2.0.32/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.TistoW/MyHelper/2.0.32/f037152b96fe6f393721cea6830cba390f238c74/MyHelper-2.0.32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
